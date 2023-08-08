@@ -1,1 +1,1 @@
-Hello I'm Richard you can call me Richard🤣
+Hello you can call me Richard😊
