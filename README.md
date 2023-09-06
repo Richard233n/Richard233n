@@ -11,6 +11,11 @@
 
 
 
+- 我希望在 **vue-shop
+** 上合作 - 我正在寻求有关 **vue by vite 的帮助**- 询问我关于 **React vue 和 js**
+- 🤝 💬 📫 👯 如何联系我 **Richard2333n@gmail.com**
+
+
 
 
 
@@ -27,5 +32,3 @@
 
 <p><img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=richard233n&” alt=“richard233n” /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Richard+Studio;欢迎来到我的频道)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard233n&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
