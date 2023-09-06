@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Richard+Studio;欢迎你+来+我的频道)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Richard+Studio;欢迎来到我的频道)](https://git.io/typing-svg)
 Hello you can call me Richard🫡
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard233n&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
