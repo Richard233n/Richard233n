@@ -15,19 +15,16 @@
       <li>avaScript/NodeJS/TypeScript/NPM 包</li>
       <li>浏览器扩展</li>
       <li>HTML/CSS/JQuery</li>
-      <li>React/Preact</li>
-      <li>Web-to-desktop 库，如 Electron、Tauri 和 Neutralino</li>
+      <li>Unity3d游戏开发</li>
+      <li>React</li>
+      <li>Web-to-desktop 库，如 Electron</li>
       <li>SQL</li>
-      <li>Rust</li>
       <li>C++</li>
-      <li>Java</li>
-      <li>API 开发，包括少量的 GraphQL</li>
-      <li>Docker、Kubernetes 和 AWS 的*某些*组件</li>
     </ul>
   </li>
-  <li>🍲 除了所有这些^，我真的很喜欢辛辣的食物和收集我永远不会玩的游戏。
+  <li>🍲 除了所有这些^，我真的很喜欢辛辣的食物和收集我永远不会玩的游戏<💙塞尔达永远的神💙!>。
   <li>💙 我喜欢帮助别人！永远不要害怕问我一些事情，除非它可以在 GitHub 问题😪中总结出来😪</li>
-  <li>🖼️ 我最引以为豪的可能是我的 <a href="https://github.com/SpikeHD/Dorion">Dorion</a>, <a href="https://github.com/SpikeHD/CSMLC">CSMLC</a> or <a href="https://github.com/SpikeHD/AmazonMonitor">AmazonMonitor</a> projects</li>
+  <li>🖼️ 我最引以为豪的是我的 <a href="https://github.com/Richard233n/Tiktok-clone">Tiktok-clone</a>, <a href="https://github.com/Richard233n/NodeChat">NodeChat</a> </li>
 </ul>
 
 <div align="center">
