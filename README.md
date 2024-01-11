@@ -12,9 +12,9 @@
 <ul>
   <li>👨‍💻 我在各种不同的事情上都有一些经验：
     <ul>
-      <li>avaScript/NodeJS/TypeScript/NPM 包</li>
+<!--       <li>avaScript/NodeJS/TypeScript/NPM 包</li> -->
       <li>浏览器扩展</li>
-      <li>HTML/CSS/JQuery</li>
+      <li>HTML/CSS</li>
       <li>Unity3d游戏开发</li>
       <li>React</li>
       <li>Web-to-desktop 库，如 Electron</li>
@@ -22,7 +22,7 @@
       <li>C++</li>
     </ul>
   </li>
-  <li>🍲 除了所有这些^，我真的很喜欢辛辣的食物和收集我永远不会玩的游戏<💙原神 启动!💙!>。
+  <li>🍲 除了所有这些^，我真的很喜欢辛辣的食物和收集我永远不会玩的游戏<💙原神启动💙!>。
   <li>💙 我喜欢帮助别人！永远不要害怕问我一些事情，除非它可以在 GitHub 问题😪中总结出来😪</li>
   <li>🖼️ 我最引以为豪的是我的 <a href="https://github.com/Richard233n/Tiktok-clone">Tiktok-clone</a>, <a href="https://github.com/Richard233n/NodeChat">NodeChat</a> </li>
 </ul>
