@@ -22,7 +22,7 @@
       <li>C++</li>
     </ul>
   </li>
-  <li>🍲 除了所有这些^，我真的很喜欢辛辣的食物和收集我永远不会玩的游戏<💙塞尔达永远的神💙!>。
+  <li>🍲 除了所有这些^，我真的很喜欢辛辣的食物和收集我永远不会玩的游戏<💙原神 启动!💙!>。
   <li>💙 我喜欢帮助别人！永远不要害怕问我一些事情，除非它可以在 GitHub 问题😪中总结出来😪</li>
   <li>🖼️ 我最引以为豪的是我的 <a href="https://github.com/Richard233n/Tiktok-clone">Tiktok-clone</a>, <a href="https://github.com/Richard233n/NodeChat">NodeChat</a> </li>
 </ul>
