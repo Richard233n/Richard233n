@@ -32,8 +32,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richard233n&theme=nord_dark)
   
   <img   align="left" src="https://github-readme-stats.vercel.app/api?username=Richard233n&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
-
-  ![B站统计](https://stats.justsong.cn/api/bilibili/?id=17479419&theme=dark) 
+ 
 
 
 </div>
