@@ -12,12 +12,12 @@
 <ul>
   <li>👨‍💻 我在各种不同的事情上都有一些经验：
     <ul>
-<!--       <li>avaScript/NodeJS/TypeScript/NPM 包</li> -->
+<!--       <li>avaScript/NodeJS/TypeScript/NPM 包</li> --> 
       <li>浏览器扩展</li>
       <li>HTML/CSS</li>
       <li>Unity3d游戏开发</li>
       <li>React</li>
-      <li>Web-to-desktop 库，如 Electron</li>
+      <li>Web-to-desktop 库，如 Electron</li> 
       <li>SQL</li>
       <li>C++</li>
     </ul>
@@ -31,10 +31,7 @@
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richard233n&theme=nord_dark)
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Richard233n&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richard233n&theme=nord_dark) 
-  ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Richard233n&layout=compact&theme=tokyonight) 
-  ![github统计](https://stats.justsong.cn/api/github?username=Richard233n&theme=dark&lang=zh-CN)
+  <img   align="left" src="https://github-readme-stats.vercel.app/api?username=Richard233n&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
   ![B站统计](https://stats.justsong.cn/api/bilibili/?id=17479419&theme=dark) 
 
